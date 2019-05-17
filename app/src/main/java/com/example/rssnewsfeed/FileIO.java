@@ -15,7 +15,9 @@ import android.util.Log;
 
 public class FileIO {
 
-    private final String URL_STRING = "https://sdtimes.com/feed/";
+   // private final String URL_STRING = "https://sdtimes.com/feed/";
+   // private final String URL_STRING = "https://www.nasa.gov/rss/dyn/breaking_news.rss";
+    private final String URL_STRING = "www.trmilitarynews.com/feed";
     private final String FILENAME = "news_feed.xml";
 
     private Context context = null;
