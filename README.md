@@ -10,14 +10,12 @@ None
 Make sure you have the lastest Andriod Studio.
 ```
 
-## Usage
+## Info
 
-```python
-import foobar
+There are 7 Class in the file and to change the link, you can do that by going to FileIO class.
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+```bash
+Note. The file are downloaded first before displaying on the screen.
 ```
 
 ## Contributing
