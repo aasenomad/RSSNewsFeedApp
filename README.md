@@ -1,13 +1,13 @@
-# Foobar
+# RSS News Feed
 
-Foobar is a Python library for dealing with word pluralization.
+Andriod app that allow you to display title and summaries from your favorite news website.
 
-## Installation
+## Requirement
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+None
 
 ```bash
-pip install foobar
+Make sure you have the lastest Andriod Studio.
 ```
 
 ## Usage
