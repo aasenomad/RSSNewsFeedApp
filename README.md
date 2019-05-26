@@ -7,7 +7,7 @@ Andriod app that allow you to display title and summaries from your favorite new
 None
 
 ```bash
-Make sure you have the lastest Andriod Studio.
+Make sure you have the latest Andriod Studio.
 ```
 
 ## Info
